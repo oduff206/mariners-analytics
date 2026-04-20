@@ -1,0 +1,31 @@
+# Data ingestion
+pybaseball>=2.2.7
+requests>=2.31.0
+curl_cffi>=0.6.0
+playwright>=1.44.0
+beautifulsoup4>=4.12.0
+
+# Data storage & querying
+duckdb>=0.10.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Bayesian modeling (Pillar 1)
+pymc>=5.10.0
+arviz>=0.18.0
+
+# Projection model (Pillar 3)
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Notebooks & visualization
+jupyter>=1.0.0
+notebook>=7.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
