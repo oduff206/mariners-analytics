@@ -3,7 +3,7 @@
 Portfolio project by Owen Duffy. Analyzes a decade of Mariners roster decisions through a front-office lens — using Bayesian methods to separate true player value from noise, and producing specific offseason recommendations backed by uncertainty-aware valuation.
 
 **Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/owen.duffy7637/viz/MarinersFrontOfficeAnalytics/MarinersFrontOfficeAnalytics)  
-**Case study:** [owen-duffy.com](https://owenduffy.com/mariners)
+**Case study:** [owen-duffy.com](https://owen-duffy.com/mariners-case-study)
 
 ---
 
